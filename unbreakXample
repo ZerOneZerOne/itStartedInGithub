@@ -1,0 +1,6 @@
+name=' '
+while true:
+	name=raw_input("please type your name")
+	if name=="alice":
+		break
+print ("hi alice")

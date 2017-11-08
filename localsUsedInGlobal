@@ -1,0 +1,6 @@
+def hello():
+	hi=99
+	print(hi)
+hi=9
+hello()
+print(hi)
