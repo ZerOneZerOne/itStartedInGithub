@@ -1,0 +1,7 @@
+def hi():
+	global a
+	a="hello"
+	print (a)
+a=10
+hi()
+print(a)
